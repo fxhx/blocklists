@@ -1,0 +1,8 @@
+# Hosts of Red Shell Steam tracking (redshell.io) as found at reddit
+# https://www.reddit.com/r/Steam/comments/8pud8b/psa_red_shell_spyware_holy_potatoes_were_in_space/
+
+0.0.0.0	redshell.io 
+0.0.0.0	api.redshell.io
+0.0.0.0	treasuredata.com
+0.0.0.0	api.treasuredata.com
+0.0.0.0	in.treasuredata.com
